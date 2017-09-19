@@ -1,0 +1,52 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.large-title {
+  font-size: 80px;
+}
+
+.white-text, a {
+  color: white;
+}
+
+.weight-bold, a {
+  font-weight: bold;
+}
+
+.flatiron-background {
+  background-image: url("C:/Program Files/Git/Broadway/resources/images/the-flatiron-building.png");
+}
+
+.black-text {
+  color: black;
+}
+
+.black-heading {
+  font-size: 32px;
+}
+
+.subheading {
+  font-size: 23px;
+}
+
+.small-text {
+  font-size: 14px;
+}
+
+.gray-background {
+  background-color: dimgray;
+}
+
+.fine-print {
+  font-size: 11px;
+}
+
+#navigation-text {
+  font-size: 18px;
+}
+
+#left-align {
+  text-align: left;
+}
